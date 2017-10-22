@@ -1,5 +1,13 @@
 # Python
+* [python fundamental](https://www.edx.org/course/introduction-python-fundamentals-microsoft-dev274x-0) - Python fundamental by edx 
+* [Python Docs](https://docs.python.org/3/tutorial/) - by Python.org
+* [Beginner's Python](https://www.programiz.com/python-programming) - PHP learn it step by step
+* [Python tutorial by tutorial's point](https://www.tutorialspoint.com/python/) - Python tutorial on TutorialPoint
+* [Expert Python Programming by Tarek Ziadé](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwimuqKxqIXXAhUBOo8KHeVOCEAQFggnMAA&url=http%3A%2F%2Foez.es%2FExpert%2520Python%2520Programming.pdf&usg=AOvVaw2LvPXgEEQnUQ0W4sL58IN8)
+[Python projects](https://codeclubprojects.org/en-GB/python/) 
 
+ Good Luck
+ 
 ## Getting Started with Contributing:
 1. After forking the project, git clone this repository onto your local environment:
 ```
