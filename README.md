@@ -1,4 +1,6 @@
 # Python
+[For Beginner](https://www.udemy.com/python-programming-beginners)
+[For Beginner](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x)
 
 ## Getting Started with Contributing:
 1. After forking the project, git clone this repository onto your local environment:
